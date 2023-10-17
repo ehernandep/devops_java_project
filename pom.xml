@@ -9,9 +9,15 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>co.edu.eafit</groupId>
+<<<<<<< HEAD
     <artifactId>devops_java_project</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>devops_java_project</name>
+=======
+    <artifactId>protobootapp</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>protobootapp</name>
+>>>>>>> 10d8360 (first)
     <description>A simple demo app for Spring Boot.</description>
     
     <properties>
