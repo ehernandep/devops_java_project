@@ -1,4 +1,4 @@
-package src.test.java.co.edu.eafit.protobootapp;
+package devops_java_project.src.test.java.co.edu.eafit.protobootapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

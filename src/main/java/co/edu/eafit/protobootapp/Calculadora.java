@@ -1,4 +1,4 @@
-package src.main.java.co.edu.eafit.protobootapp;
+package devops_java_project.edu.eafit.protobootapp;
 
 //This is a simple calculator class.
 public class Calculadora {
