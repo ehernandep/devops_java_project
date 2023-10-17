@@ -5,22 +5,12 @@ name: Java CI with Maven
 
 on:
   push:
-<<<<<<< HEAD
     branches: [ main ]
   pull_request:
     branches: [ main ]
 
 jobs:
   build:
-=======
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
-
-jobs:
-  build:
-
->>>>>>> 10d8360 (first)
     runs-on: ubuntu-latest
 
     steps:
