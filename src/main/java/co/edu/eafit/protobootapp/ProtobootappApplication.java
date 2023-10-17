@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-package devops_java_project.src.main.java.co.edu.eafit.protobootapp;
-=======
 package co.edu.eafit.protobootapp;
->>>>>>> 10d8360 (first)
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
