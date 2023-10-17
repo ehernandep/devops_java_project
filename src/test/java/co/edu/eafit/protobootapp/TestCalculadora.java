@@ -1,4 +1,4 @@
-package protobootapp.src.test.java.co.edu.eafit.protobootapp;
+package src.test.java.co.edu.eafit.protobootapp;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

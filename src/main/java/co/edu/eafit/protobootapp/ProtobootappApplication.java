@@ -1,4 +1,4 @@
-package protobootapp.src.main.java.co.edu.eafit.protobootapp;
+package src.main.java.co.edu.eafit.protobootapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
